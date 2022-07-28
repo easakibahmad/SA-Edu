@@ -1,19 +1,16 @@
 /* google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit&family=Oswald&family=Permanent+Marker&family=Roboto+Mono&family=Roboto:wght@100;500&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit&family=Lobster&family=Oswald&family=Permanent+Marker&family=Poppins:ital@1&family=Roboto+Mono&family=Roboto:wght@100;500&family=Satisfy&display=swap');
 
-/* header part */
 
-/* nav part */
 .big-text {
     font-family: 'Poppins', sans-serif;
 }
 
-/* carousl part */
 
 .caro-image {
     height: 550px;
 }
 
-.car-btn {
+.caro-btn {
     margin-bottom: 110px;
 }
