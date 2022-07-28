@@ -2,13 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit&family=Lobster&family=Oswald&family=Permanent+Marker&family=Poppins:ital@1&family=Roboto+Mono&family=Roboto:wght@100;500&family=Satisfy&display=swap');
 
 
-.big-text {
+body {
     font-family: 'Poppins', sans-serif;
 }
 
 
 .caro-image {
     height: 550px;
+    filter: brightness(40%);
 }
 
 .caro-btn {
