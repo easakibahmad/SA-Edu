@@ -11,8 +11,3 @@ body {
     height: 550px;
     filter: brightness(40%);
 }
-
-/* carousel button */
-.caro-btn {
-    margin-bottom: 110px;
-}
